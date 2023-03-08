@@ -17,6 +17,6 @@ git pull --rebase
 git fetch origin master 更新最新
 git pull origin master 改掉本地
 git checkout <new_branch>到自己分支
-git rebase master
+git rebase master   .....
 
 最新的分支(yes) rebase (two)
