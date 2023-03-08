@@ -6,6 +6,9 @@ git rebase master
 回自己分支 commit 
 git push --set-upstream origin  推到自己分支
 
-第二種最新的分支(yes) rebase (two)
+第二種最新的分支(yes) rebase (two)\
+
+
+new
 
 
