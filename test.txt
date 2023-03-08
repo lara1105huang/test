@@ -13,10 +13,11 @@ git pull --rebase
 因為你電腦裡的內容是比較舊的，所以你應該先拉一份線上版本的回來更新，然後再推一次：
 
 
-第二種.最新的分支(yes) rebase (two)
+第二種測試 解衝突.最新的分支(yes) rebase (two)
 git fetch origin master 更新最新
 git pull origin master 改掉本地
 git checkout <new_branch>到自己分支
 git rebase master   .....
+
 
 最新的分支(yes) rebase (two)
