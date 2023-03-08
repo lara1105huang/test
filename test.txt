@@ -1,6 +1,10 @@
-tttt
+origin/master
 
-tttttttttttt
+Fetch 指令才是把東西拉回來的主角
+git fetch
 
+Pull =>下載更新
 
-這是yes 留的
+先拉再推
+git pull --rebase
+因為你電腦裡的內容是比較舊的，所以你應該先拉一份線上版本的回來更新，然後再推一次：
