@@ -12,19 +12,11 @@ Pull =>下載更新
 git pull --rebase
 因為你電腦裡的內容是比較舊的，所以你應該先拉一份線上版本的回來更新，然後再推一次：
 
-one
-Fetch 指令才是把東西拉回來的主角
-git fetch
 
-Pull =>下載更新
-
-先拉再推
-git pull --rebase
-因為你電腦裡的內容是比較舊的，所以你應該先拉一份線上版本的回來更新，然後再推一次：
-
-
-1.第一種回到master fetch & pull (目的更新到最新版本) =>到自己分支  =>rebase master
+第二種.最新的分支(yes) rebase (two)
 git fetch origin master 更新最新
 git pull origin master 改掉本地
 git checkout <new_branch>到自己分支
 git rebase master
+
+最新的分支(yes) rebase (two)
