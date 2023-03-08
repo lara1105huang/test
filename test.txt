@@ -4,7 +4,7 @@ one
 one
 origin/master
 Fetch 指令才是把東西拉回來的主角
-git fetch
+git fetch git fetch
 
 Pull =>下載更新
 
