@@ -7,12 +7,18 @@ git rebase master
 git push --set-upstream origin  推到自己分支
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 08a4d6a76c18004f8cfc3fc5de2e4dcd671963f1
 第二種最新的分支(yes) rebase (two)\
 
 
 new
+<<<<<<< HEAD
 =======
 第二種最新的分支(yes) rebase (two)
 >>>>>>> fe35864 (new第一種)
+=======
+>>>>>>> 08a4d6a76c18004f8cfc3fc5de2e4dcd671963f1
 
 

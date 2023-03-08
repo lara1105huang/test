@@ -2,7 +2,11 @@
 git fetch origin master 更新最新
 git pull origin master 改掉本地
 git checkout <new_branch>到自己分支
+<<<<<<< HEAD
 git rebase master ccc
+=======
+git rebase master fffff
+>>>>>>> 08a4d6a76c18004f8cfc3fc5de2e4dcd671963f1
 
 
 
