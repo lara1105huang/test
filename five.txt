@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 fivefour
-=======
-four
->>>>>>> 3f1d4cfe9e8efe573575fae8eb9e739036439ec0

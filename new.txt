@@ -5,7 +5,6 @@ git checkout <new_branch>到自己分支
 git rebase master
 回自己分支 commit 
 git push --set-upstream origin  推到自己分支
-<<<<<<< HEAD
 
 第二種最新的分支(yes) rebase (two)\
 
@@ -13,5 +12,3 @@ git push --set-upstream origin  推到自己分支
 new
 
 
-=======
->>>>>>> 3f1d4cfe9e8efe573575fae8eb9e739036439ec0
