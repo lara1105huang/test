@@ -5,14 +5,3 @@ git checkout <new_branch>到自己分支
 git rebase master
 回自己分支 commit 
 git push --set-upstream origin  推到自己分支
-
-<<<<<<< HEAD
-第二種最新的分支(yes) rebase (two)\
-
-
-new
-=======
-第二種最新的分支(yes) rebase (two)
->>>>>>> fe35864 (new第一種)
-
-
