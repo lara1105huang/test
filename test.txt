@@ -8,7 +8,7 @@ git fetch
 
 Pull =>下載更新
 
-fixfixfix先拉再推
+fixfixfix0000000先拉再推
 git pull --rebase
 因為你電腦裡的fixfixfix內容是比較舊的，所以你應該先拉一份線上版本的回來更新，然後再推一次回來更新回來更新：
 
